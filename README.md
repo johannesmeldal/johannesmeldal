@@ -10,6 +10,11 @@
 
 ## I'm a Student and Developer!!
 
+:round_pushpin: Nesodden, Norway
+
+- :mortar_board: I'm currently studying Informatics at NTNU
+- :checkered_flag: My Goal for 2021/2022 is to help digitalize my studentorganization
+
 ### Connect with me:
 
 [<picture><source srcset="svgs/web_light.svg" media="(prefers-color-scheme: light)" /><source srcset="svgs/web_dark.svg" media="(prefers-color-scheme: dark)" /><img alt="https://johanaostbye.github.io/" width="22px" src="svgs/web_dark.svg" /></picture>][website]
