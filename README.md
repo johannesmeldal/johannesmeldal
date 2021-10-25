@@ -42,7 +42,9 @@
 <img alt="gatsby" width="22px" src="svgs/tech/gatsby.svg" />
 
 <!-- other -->
+<img alt="python" width="22px" src="svgs/tech/python.svg" />
 <img alt="java" width="22px" src="svgs/tech/java.svg" />
+<img alt="kotlin" width="22px" src="svgs/tech/kotlin.svg" />
 <img alt="mysql" width="22px" src="svgs/tech/mysql.svg" />
 <img alt="mongodb" width="22px" src="svgs/tech/mongodb.svg" />
 <img alt="asciidoc" width="22px" src="svgs/tech/asciidoctor.svg" />
@@ -52,12 +54,12 @@
 <picture>
   <source srcset="svgs/tech/amazonaws_light.svg" media="(prefers-color-scheme: light)" />
   <source srcset="svgs/tech/amazonaws_dark.svg" media="(prefers-color-scheme: dark)" />
-  <img alt="amazon aws" width="22px" src="svgs/tech/amazonaws.svg" />
+  <img alt="amazon aws" width="22px" src="svgs/tech/amazonaws_dark.svg" />
 </picture>
 <picture>
   <source srcset="svgs/tech/term_light.svg" media="(prefers-color-scheme: light)" />
   <source srcset="svgs/tech/term_dark.svg" media="(prefers-color-scheme: dark)" />
-  <img alt="terminal" width="22px" src="svgs/tech/term.svg" />
+  <img alt="terminal" width="22px" src="svgs/tech/term_dark.svg" />
 </picture>
 
 ---
