@@ -73,11 +73,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/JohanAOstbye/tdtBIG-d/pull/3) in [JohanAOstbye/tdtBIG-d](https://github.com/JohanAOstbye/tdtBIG-d)
-2. 🗣 Commented on [#3](https://github.com/JohanAOstbye/tdtBIG-d/issues/3) in [JohanAOstbye/tdtBIG-d](https://github.com/JohanAOstbye/tdtBIG-d)
-3. 🎉 Merged PR [#2](https://github.com/JohanAOstbye/tdtBIG-d/pull/2) in [JohanAOstbye/tdtBIG-d](https://github.com/JohanAOstbye/tdtBIG-d)
-4. 💪 Opened PR [#2](https://github.com/JohanAOstbye/tdtBIG-d/pull/2) in [JohanAOstbye/tdtBIG-d](https://github.com/JohanAOstbye/tdtBIG-d)
-5. 🎉 Merged PR [#1](https://github.com/JohanAOstbye/tdtBIG-d/pull/1) in [JohanAOstbye/tdtBIG-d](https://github.com/JohanAOstbye/tdtBIG-d)
+1. 🎉 Merged PR [#1](https://github.com/JohanAOstbye/invoiceinfo/pull/1) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+2. ❗️ Opened issue [#3](https://github.com/JohanAOstbye/invoiceinfo/issues/3) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+3. ❗️ Opened issue [#2](https://github.com/JohanAOstbye/invoiceinfo/issues/2) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+4. 🗣 Commented on [#1](https://github.com/JohanAOstbye/invoiceinfo/issues/1) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+5. 🎉 Merged PR [#3](https://github.com/JohanAOstbye/tdtBIG-d/pull/3) in [JohanAOstbye/tdtBIG-d](https://github.com/JohanAOstbye/tdtBIG-d)
 <!--END_SECTION:activity-->
 
 </details>
