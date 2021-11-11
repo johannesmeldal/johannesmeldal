@@ -73,11 +73,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/JohanAOstbye/invoiceinfo/pull/4) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
-2. 💪 Opened PR [#4](https://github.com/JohanAOstbye/invoiceinfo/pull/4) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
-3. ❗️ Closed issue [#2](https://github.com/JohanAOstbye/invoiceinfo/issues/2) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
-4. 🗣 Commented on [#2](https://github.com/JohanAOstbye/invoiceinfo/issues/2) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
-5. ❗️ Closed issue [#3](https://github.com/JohanAOstbye/invoiceinfo/issues/3) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+1. ❗️ Opened issue [#5](https://github.com/JohanAOstbye/invoiceinfo/issues/5) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+2. 🎉 Merged PR [#4](https://github.com/JohanAOstbye/invoiceinfo/pull/4) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+3. 💪 Opened PR [#4](https://github.com/JohanAOstbye/invoiceinfo/pull/4) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+4. ❗️ Closed issue [#2](https://github.com/JohanAOstbye/invoiceinfo/issues/2) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+5. 🗣 Commented on [#2](https://github.com/JohanAOstbye/invoiceinfo/issues/2) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
 <!--END_SECTION:activity-->
 
 </details>
