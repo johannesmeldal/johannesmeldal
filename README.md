@@ -5,7 +5,8 @@
 </picture>
 <div align="center">
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=WEBSITE-CV&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)](https://johanaostbye.github.io/)
+[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=CV&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)](https://johanaostbye.github.io/cv)
+[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=MY-WEBSITE&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)](https://johanaostbye.github.io/me)
 [![Visits Badge](https://badges.pufler.dev/visits/johanaostbye/johanaostbye?style=for-the-badge)](https://badges.pufler.dev)
 
 ## I'm a Student and Developer!!
