@@ -74,11 +74,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/niklasmh/student-3d-modellering-med-bekk/pull/9) in [niklasmh/student-3d-modellering-med-bekk](https://github.com/niklasmh/student-3d-modellering-med-bekk)
-2. ❗️ Opened issue [#15](https://github.com/dotkom/yacl/issues/15) in [dotkom/yacl](https://github.com/dotkom/yacl)
-3. ❗️ Opened issue [#5](https://github.com/JohanAOstbye/invoiceinfo/issues/5) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
-4. 🎉 Merged PR [#4](https://github.com/JohanAOstbye/invoiceinfo/pull/4) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
-5. 💪 Opened PR [#4](https://github.com/JohanAOstbye/invoiceinfo/pull/4) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+1. 🗣 Commented on [#5](https://github.com/JohanAOstbye/invoiceinfo/issues/5) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+2. ❗️ Closed issue [#5](https://github.com/JohanAOstbye/invoiceinfo/issues/5) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
+3. 💪 Opened PR [#9](https://github.com/niklasmh/student-3d-modellering-med-bekk/pull/9) in [niklasmh/student-3d-modellering-med-bekk](https://github.com/niklasmh/student-3d-modellering-med-bekk)
+4. ❗️ Opened issue [#15](https://github.com/dotkom/yacl/issues/15) in [dotkom/yacl](https://github.com/dotkom/yacl)
+5. ❗️ Opened issue [#5](https://github.com/JohanAOstbye/invoiceinfo/issues/5) in [JohanAOstbye/invoiceinfo](https://github.com/JohanAOstbye/invoiceinfo)
 <!--END_SECTION:activity-->
 
 </details>
