@@ -74,11 +74,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/JohanAOstbye/tacomanager/pull/7) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-2. 💪 Opened PR [#7](https://github.com/JohanAOstbye/tacomanager/pull/7) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-3. 🎉 Merged PR [#6](https://github.com/JohanAOstbye/tacomanager/pull/6) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-4. 💪 Opened PR [#6](https://github.com/JohanAOstbye/tacomanager/pull/6) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-5. ❗️ Opened issue [#5](https://github.com/JohanAOstbye/tacomanager/issues/5) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+1. ❗️ Opened issue [#5](https://github.com/dotkom/pennywise-macrosystem/issues/5) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
+2. ❗️ Opened issue [#4](https://github.com/dotkom/pennywise-macrosystem/issues/4) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
+3. 🎉 Merged PR [#7](https://github.com/JohanAOstbye/tacomanager/pull/7) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+4. 💪 Opened PR [#7](https://github.com/JohanAOstbye/tacomanager/pull/7) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+5. 🎉 Merged PR [#6](https://github.com/JohanAOstbye/tacomanager/pull/6) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
 <!--END_SECTION:activity-->
 
 </details>
