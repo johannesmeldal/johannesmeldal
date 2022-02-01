@@ -74,11 +74,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/dotkom/autobank/issues/2) in [dotkom/autobank](https://github.com/dotkom/autobank)
-2. ❗️ Opened issue [#1](https://github.com/dotkom/autobank/issues/1) in [dotkom/autobank](https://github.com/dotkom/autobank)
-3. ❗️ Closed issue [#17](https://github.com/dotkom/pennywise-macrosystem/issues/17) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
-4. ❗️ Opened issue [#29](https://github.com/dotkom/pennywise-macrosystem/issues/29) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
-5. 🎉 Merged PR [#28](https://github.com/dotkom/pennywise-macrosystem/pull/28) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
+1. ❗️ Opened issue [#11](https://github.com/dotkom/autobank/issues/11) in [dotkom/autobank](https://github.com/dotkom/autobank)
+2. ❗️ Opened issue [#10](https://github.com/dotkom/autobank/issues/10) in [dotkom/autobank](https://github.com/dotkom/autobank)
+3. ❗️ Opened issue [#9](https://github.com/dotkom/autobank/issues/9) in [dotkom/autobank](https://github.com/dotkom/autobank)
+4. ❗️ Opened issue [#8](https://github.com/dotkom/autobank/issues/8) in [dotkom/autobank](https://github.com/dotkom/autobank)
+5. ❗️ Opened issue [#7](https://github.com/dotkom/autobank/issues/7) in [dotkom/autobank](https://github.com/dotkom/autobank)
 <!--END_SECTION:activity-->
 
 </details>
