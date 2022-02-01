@@ -74,11 +74,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/dotkom/pennywise-macrosystem/issues/17) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
-2. ❗️ Opened issue [#29](https://github.com/dotkom/pennywise-macrosystem/issues/29) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
-3. 🎉 Merged PR [#28](https://github.com/dotkom/pennywise-macrosystem/pull/28) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
-4. 💪 Opened PR [#28](https://github.com/dotkom/pennywise-macrosystem/pull/28) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
-5. ❗️ Closed issue [#17](https://github.com/dotkom/pennywise-macrosystem/issues/17) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
+1. ❗️ Opened issue [#2](https://github.com/dotkom/autobank/issues/2) in [dotkom/autobank](https://github.com/dotkom/autobank)
+2. ❗️ Opened issue [#1](https://github.com/dotkom/autobank/issues/1) in [dotkom/autobank](https://github.com/dotkom/autobank)
+3. ❗️ Closed issue [#17](https://github.com/dotkom/pennywise-macrosystem/issues/17) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
+4. ❗️ Opened issue [#29](https://github.com/dotkom/pennywise-macrosystem/issues/29) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
+5. 🎉 Merged PR [#28](https://github.com/dotkom/pennywise-macrosystem/pull/28) in [dotkom/pennywise-macrosystem](https://github.com/dotkom/pennywise-macrosystem)
 <!--END_SECTION:activity-->
 
 </details>
