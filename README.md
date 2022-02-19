@@ -74,11 +74,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/JohanAOstbye/tacomanager/pull/16) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-2. ❗️ Closed issue [#5](https://github.com/JohanAOstbye/tacomanager/issues/5) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-3. ❗️ Closed issue [#3](https://github.com/JohanAOstbye/tacomanager/issues/3) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-4. ❗️ Closed issue [#4](https://github.com/JohanAOstbye/tacomanager/issues/4) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-5. ❗️ Closed issue [#1](https://github.com/JohanAOstbye/tacomanager/issues/1) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+1. 💪 Opened PR [#17](https://github.com/JohanAOstbye/tacomanager/pull/17) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+2. 🎉 Merged PR [#16](https://github.com/JohanAOstbye/tacomanager/pull/16) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+3. ❗️ Closed issue [#5](https://github.com/JohanAOstbye/tacomanager/issues/5) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+4. ❗️ Closed issue [#3](https://github.com/JohanAOstbye/tacomanager/issues/3) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+5. ❗️ Closed issue [#4](https://github.com/JohanAOstbye/tacomanager/issues/4) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
 <!--END_SECTION:activity-->
 
 </details>
