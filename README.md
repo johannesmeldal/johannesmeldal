@@ -74,11 +74,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/JohanAOstbye/tacomanager/issues/1) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-2. 🎉 Merged PR [#21](https://github.com/dotkom/autobank/pull/21) in [dotkom/autobank](https://github.com/dotkom/autobank)
-3. 🗣 Commented on [#21](https://github.com/dotkom/autobank/issues/21) in [dotkom/autobank](https://github.com/dotkom/autobank)
-4. 🗣 Commented on [#21](https://github.com/dotkom/autobank/issues/21) in [dotkom/autobank](https://github.com/dotkom/autobank)
-5. 🎉 Merged PR [#19](https://github.com/dotkom/autobank/pull/19) in [dotkom/autobank](https://github.com/dotkom/autobank)
+1. 💪 Opened PR [#23](https://github.com/JohanAOstbye/tacomanager/pull/23) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+2. 🎉 Merged PR [#21](https://github.com/JohanAOstbye/tacomanager/pull/21) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+3. 🎉 Merged PR [#22](https://github.com/JohanAOstbye/tacomanager/pull/22) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+4. 💪 Opened PR [#22](https://github.com/JohanAOstbye/tacomanager/pull/22) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+5. 💪 Opened PR [#21](https://github.com/JohanAOstbye/tacomanager/pull/21) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
 <!--END_SECTION:activity-->
 
 </details>
