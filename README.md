@@ -18,10 +18,10 @@
 
 [![https://ostbye.dev](./svgs/web_dark.svg#gh-dark-mode-only)][website]
 [![https://ostbye.dev](./svgs/web_light.svg#gh-light-mode-only)][website]
-[![johan-august-%C3%B8stbye | LinkedIn](./svgs/linkedin_dark.svg#gh-dark-mode-only)][linkedin]
-[![johan-august-%C3%B8stbye | LinkedIn](./svgs/LinkedIn_light.svg#gh-light-mode-only)][linkedin]
-[![https://ostbye.dev](./svgs/instagram_dark.svg#gh-dark-mode-only)][instagram]
-[![https://ostbye.dev](./svgs/instagram_light.svg#gh-light-mode-only)][instagram]
+[![Linkedin](./svgs/linkedin_dark.svg#gh-dark-mode-only)][linkedin]
+[![Linkedin](./svgs/LinkedIn_light.svg#gh-light-mode-only)][linkedin]
+[![johan_august98](./svgs/instagram_dark.svg#gh-dark-mode-only)][instagram]
+[![johan_august98](./svgs/instagram_light.svg#gh-light-mode-only)][instagram]
 [![Johan.august@outlook.com](./svgs/mail_dark.svg#gh-dark-mode-only)](mailto:Johan.August@outlook.com)
 [![Johan.august@outlook.com](./svgs/mail_light.svg#gh-light-mode-only)](mailto:Johan.August@outlook.com)
 
@@ -60,7 +60,7 @@
 <img alt="graphql" width="22px" src="svgs/tech/graphql.svg" />
 <img alt="dotnet" width="22px" src="svgs/tech/dotnet.svg" />
 
-![aws](././svgs//tech/amazonaws_dark.svg#gh-dark-mode-only)
+<!-- ![aws](././svgs//tech/amazonaws_dark.svg#gh-dark-mode-only)
 ![aws](./svgs//tech/amazonaws_light.svg#gh-light-mode-only)
 ![term](././svgs//tech/term_dark.svg#gh-dark-mode-only)
 ![term](./svgs//tech/term_light.svg#gh-light-mode-only)
@@ -72,7 +72,7 @@
     img[alt="aws"] {
         width: 22px;
     }
-</style>
+</style> -->
 
 ---
 
