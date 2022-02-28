@@ -19,7 +19,7 @@
 [![https://ostbye.dev](./svgs/web_dark.svg#gh-dark-mode-only)][website]
 [![https://ostbye.dev](./svgs/web_light.svg#gh-light-mode-only)][website]
 [![Linkedin](./svgs/linkedin_dark.svg#gh-dark-mode-only)][linkedin]
-[![Linkedin](./svgs/Linkedin_light.svg#gh-light-mode-only)][linkedin]
+[![Linkedin](./svgs/linkedin_light.svg#gh-light-mode-only)][linkedin]
 [![johan_august98](./svgs/instagram_dark.svg#gh-dark-mode-only)][instagram]
 [![johan_august98](./svgs/instagram_light.svg#gh-light-mode-only)][instagram]
 [![Johan.august@outlook.com](./svgs/mail_dark.svg#gh-dark-mode-only)](mailto:Johan.August@outlook.com)
