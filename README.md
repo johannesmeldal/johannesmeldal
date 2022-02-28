@@ -1,8 +1,6 @@
-<picture>
-  <source srcset="svgs/header_light.svg" media="(prefers-color-scheme: light)" />
-  <source srcset="svgs/header_dark.svg" media="(prefers-color-scheme: dark)" />
-  <img alt="####Hi:) Im Johan August Østbye" src="svgs/header_dark.svg" width="100%">
-</picture>
+[Hi:) Im Johan August Østbye](./svgs/header_dark.svg#gh-dark-mode-only)
+[Hi:) Im Johan August Østbye](./svgs/header_light.svg#gh-light-mode-only)
+
 <div align="center">
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=down&label=CV&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)](https://johanaostbye.github.io/cv)
