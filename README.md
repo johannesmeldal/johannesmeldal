@@ -3,16 +3,15 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=MY%20CV&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)][cv]
-[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=MY%20WEBSITE&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)][website]
-[![Visits Badge](https://badges.pufler.dev/visits/johanaostbye/johanaostbye?style=for-the-badge)](https://badges.pufler.dev)
+
+
 
 ## I'm a Student and Developer!!
 
 :round_pushpin: Nesodden, Norway
 
 - :mortar_board: I'm currently studying Informatics at NTNU
-- :checkered_flag: My Goal for 2021/2022 is to help digitalize my studentorganization
+- :checkered_flag: My Goal for 2021/2022 is to become a better person
 
 ### Connect with me:
 
@@ -29,7 +28,7 @@
 
 #### Prefered setup:
 
-<img alt="ubuntu" width="22px" src="svgs/tech/ubuntu.svg" />
+<img alt="java" width="22px" src="svgs/tech/java.svg" />
  with 
 <img alt="vscode" width="22px" src="svgs/tech/vscode.svg" />
 
@@ -39,11 +38,6 @@
 <img alt="css3" width="22px" src="svgs/tech/css3.svg" />
 
 <img alt="javascript" width="22px" src="svgs/tech/javascript.svg" />
-<img alt="typescript" width="22px" src="svgs/tech/typescript.svg" />
-<img alt="react" width="22px" src="svgs/tech/react.svg" />
-<img alt="node.js" width="22px" src="svgs/tech/nodedotjs.svg" />
-<img alt="npm" width="22px" src="svgs/tech/npm.svg" />
-<img alt="gatsby" width="22px" src="svgs/tech/gatsby.svg" />
 
 <!-- other -->
 <img alt="python" width="22px" src="svgs/tech/python.svg" />
@@ -76,11 +70,7 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/JohanAOstbye/tacomanager/pull/30) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-2. 💪 Opened PR [#30](https://github.com/JohanAOstbye/tacomanager/pull/30) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-3. 🎉 Merged PR [#29](https://github.com/JohanAOstbye/tacomanager/pull/29) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-4. 💪 Opened PR [#29](https://github.com/JohanAOstbye/tacomanager/pull/29) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
-5. 🎉 Merged PR [#26](https://github.com/JohanAOstbye/tacomanager/pull/26) in [JohanAOstbye/tacomanager](https://github.com/JohanAOstbye/tacomanager)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -97,4 +87,3 @@
 [instagram]: https://www.instagram.com/johannesmeldal
 [online]: https://online.ntnu.no/
 [github]: https://github.com/johannesmeldal
-[cv]: https://cv.ostbye.dev
