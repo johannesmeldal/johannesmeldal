@@ -1,5 +1,5 @@
-![Hi:) Im Johan August Østbye](./svgs/header_dark.svg#gh-dark-mode-only)
-![Hi:) Im Johan August Østbye](./svgs/header_light.svg#gh-light-mode-only)
+![Bonjour, I'm Johannes!](./svgs/header_dark.svg#gh-dark-mode-only)
+![Bonjour, I'm Johannes!](./svgs/header_light.svg#gh-light-mode-only)
 
 <div align="center">
 
