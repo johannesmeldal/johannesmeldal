@@ -16,20 +16,16 @@
 
 ### Connect with me:
 
-[![https://ostbye.dev](./svgs/web_dark.svg#gh-dark-mode-only)][website]
-[![https://ostbye.dev](./svgs/web_light.svg#gh-light-mode-only)][website]
-[![Linkedin](./svgs/linkedin_dark.svg#gh-dark-mode-only)][linkedin]
-[![Linkedin](./svgs/linkedin_light.svg#gh-light-mode-only)][linkedin]
-[![johan_august98](./svgs/instagram_dark.svg#gh-dark-mode-only)][instagram]
-[![johan_august98](./svgs/instagram_light.svg#gh-light-mode-only)][instagram]
-[![Johan.august@outlook.com](./svgs/mail_dark.svg#gh-dark-mode-only)](mailto:Johan.August@outlook.com)
-[![Johan.august@outlook.com](./svgs/mail_light.svg#gh-light-mode-only)](mailto:Johan.August@outlook.com)
+[![johannesmeldal](./svgs/instagram_dark.svg#gh-dark-mode-only)][instagram]
+[![johannesmeldal](./svgs/instagram_light.svg#gh-light-mode-only)][instagram]
+[![johanneslmeldal@gmail.com](./svgs/mail_dark.svg#gh-dark-mode-only)](mailto:johanneslmeldal@gmail.com)
+[![johanneslmeldal@gmail.com](./svgs/mail_light.svg#gh-light-mode-only)](mailto:johanneslmeldal@gmail.com)
 
 ---
 
 ### Languages and Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanaostbye&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannesmeldal&layout=compact&theme=jolly)
 
 #### Prefered setup:
 
@@ -92,15 +88,13 @@
 <details>
   <summary>GitHub Stats</summary>
 
-[![Johan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanAostbye&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Johannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=johannesmeldal&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 </div>
 
-[website]: https://ostbye.dev
-[instagram]: https://www.instagram.com/johan_august98
-[linkedin]: https://www.linkedin.com/in/johanaugust%C3%B8stbye/
+[instagram]: https://www.instagram.com/johannesmeldal
 [online]: https://online.ntnu.no/
-[github]: https://github.com/JohanAOstbye
+[github]: https://github.com/johannesmeldal
 [cv]: https://cv.ostbye.dev
