@@ -3,8 +3,8 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=CV&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)](https://johanaostbye.github.io/cv)
-[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=MY-WEBSITE&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)](https://johanaostbye.github.io/me)
+[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=MY%20CV&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)][cv]
+[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=MY%20WEBSITE&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fjohanaostbye.github.io%2F)][website]
 [![Visits Badge](https://badges.pufler.dev/visits/johanaostbye/johanaostbye?style=for-the-badge)](https://badges.pufler.dev)
 
 ## I'm a Student and Developer!!
@@ -16,10 +16,14 @@
 
 ### Connect with me:
 
-[<picture><source srcset="svgs/web_light.svg" media="(prefers-color-scheme: light)" /><source srcset="svgs/web_dark.svg" media="(prefers-color-scheme: dark)" /><img alt="https://johanaostbye.github.io/" width="22px" src="svgs/web_dark.svg" /></picture>][website]
-[<picture><source srcset="svgs/linkedin_light.svg" media="(prefers-color-scheme: light)" /><source srcset="svgs/linkedin_dark.svg" media="(prefers-color-scheme: dark)" /><img alt="johan-august-%C3%B8stbye | LinkedIn" width="22px" src="svgs/linkedin_dark.svg" /></picture>][linkedin]
-[<picture><source srcset="svgs/instagram_light.svg" media="(prefers-color-scheme: light)" /><source srcset="svgs/instagram_dark.svg" media="(prefers-color-scheme: dark)" /><img alt="johanaugust98 | Instagram" width="22px" src="svgs/instagram_dark.svg" /></picture>][instagram]
-[<picture><source srcset="svgs/mail_light.svg" media="(prefers-color-scheme: light)" /><source srcset="svgs/mail_dark.svg" media="(prefers-color-scheme: dark)" /><img alt="Johan.august@outlook.com" width="22px" src="svgs/mail_dark.svg" /></picture>](mailto:Johan.August@outlook.com)
+[![https://ostbye.dev](./svgs/web_dark.svg#gh-dark-mode-only)][website]
+[![https://ostbye.dev](./svgs/web_light.svg#gh-light-mode-only)][website]
+[![johan-august-%C3%B8stbye | LinkedIn](./svgs/linkedin_dark.svg#gh-dark-mode-only)][linkedin]
+[![johan-august-%C3%B8stbye | LinkedIn](./svgs/LinkedIn_light.svg#gh-light-mode-only)][linkedin]
+[![https://ostbye.dev](./svgs/instagram_dark.svg#gh-dark-mode-only)][instagram]
+[![https://ostbye.dev](./svgs/instagram_light.svg#gh-light-mode-only)][instagram]
+[![Johan.august@outlook.com](./svgs/mail_dark.svg#gh-dark-mode-only)](mailto:Johan.August@outlook.com)
+[![Johan.august@outlook.com](./svgs/mail_light.svg#gh-light-mode-only)](mailto:Johan.August@outlook.com)
 
 ---
 
@@ -55,16 +59,20 @@
 <img alt="apollographql" width="22px" src="svgs/tech/apollographql.svg" />
 <img alt="graphql" width="22px" src="svgs/tech/graphql.svg" />
 <img alt="dotnet" width="22px" src="svgs/tech/dotnet.svg" />
-<picture>
-  <source srcset="svgs/tech/amazonaws_light.svg" media="(prefers-color-scheme: light)" />
-  <source srcset="svgs/tech/amazonaws_dark.svg" media="(prefers-color-scheme: dark)" />
-  <img alt="amazon aws" width="22px" src="svgs/tech/amazonaws_dark.svg" />
-</picture>
-<picture>
-  <source srcset="svgs/tech/term_light.svg" media="(prefers-color-scheme: light)" />
-  <source srcset="svgs/tech/term_dark.svg" media="(prefers-color-scheme: dark)" />
-  <img alt="terminal" width="22px" src="svgs/tech/term_dark.svg" />
-</picture>
+
+![aws](././svgs//tech/amazonaws_dark.svg#gh-dark-mode-only)
+![aws](./svgs//tech/amazonaws_light.svg#gh-light-mode-only)
+![term](././svgs//tech/term_dark.svg#gh-dark-mode-only)
+![term](./svgs//tech/term_light.svg#gh-light-mode-only)
+
+<style type="text/css">
+    img[alt="term"] {
+        width: 22px;
+    }
+    img[alt="aws"] {
+        width: 22px;
+    }
+</style>
 
 ---
 
@@ -90,8 +98,9 @@
 
 </div>
 
-[website]: johanaostbye.github.io
+[website]: https://ostbye.dev
 [instagram]: https://www.instagram.com/johan_august98
 [linkedin]: https://www.linkedin.com/in/johanaugust%C3%B8stbye/
 [online]: https://online.ntnu.no/
 [github]: https://github.com/JohanAOstbye
+[cv]: https://cv.ostbye.dev
