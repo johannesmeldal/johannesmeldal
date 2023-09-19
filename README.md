@@ -16,8 +16,8 @@
 [![johannesmeldal](./svgs/instagram_light.svg#gh-light-mode-only)][instagram]
 [![johanneslmeldal@gmail.com](./svgs/mail_dark.svg#gh-dark-mode-only)](mailto:johanneslmeldal@gmail.com)
 [![johanneslmeldal@gmail.com](./svgs/mail_light.svg#gh-light-mode-only)](mailto:johanneslmeldal@gmail.com)
-[![johannesmeldal](./svgs/linkedin_dark.svg#gh-dark-mode-only)][online]
-[![johannesmeldal](./svgs/linkedin_light.svg#gh-light-mode-only)][online]
+[![johannesmeldal](./svgs/linkedin_dark.svg#gh-dark-mode-only)][linkedin]
+[![johannesmeldal](./svgs/linkedin_light.svg#gh-light-mode-only)][linkedin]
 
 ---
 
