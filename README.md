@@ -3,15 +3,12 @@
 
 <div align="center">
 
-
-
-
 ## I'm a Student and Developer!!
 
-:round_pushpin: Nesodden, Norway
+:round_pushpin: Oslo, Norway
 
 - :mortar_board: I'm currently studying Informatics at NTNU
-- :checkered_flag: My Goal for 2021/2022 is to become a better person
+- :checkered_flag: My Goal for 2022/2023 is to become as a better person and developer
 
 ### Connect with me:
 
@@ -19,6 +16,8 @@
 [![johannesmeldal](./svgs/instagram_light.svg#gh-light-mode-only)][instagram]
 [![johanneslmeldal@gmail.com](./svgs/mail_dark.svg#gh-dark-mode-only)](mailto:johanneslmeldal@gmail.com)
 [![johanneslmeldal@gmail.com](./svgs/mail_light.svg#gh-light-mode-only)](mailto:johanneslmeldal@gmail.com)
+[![johannesmeldal](./svgs/linkedin_dark.svg#gh-dark-mode-only)][online]
+[![johannesmeldal](./svgs/linkedin_light.svg#gh-light-mode-only)][online]
 
 ---
 
@@ -28,7 +27,7 @@
 
 #### Prefered setup:
 
-<img alt="java" width="22px" src="svgs/tech/java.svg" />
+<img alt="react" width="22px" src="svgs/tech/react.svg" />
  with 
 <img alt="vscode" width="22px" src="svgs/tech/vscode.svg" />
 
@@ -40,15 +39,16 @@
 <img alt="javascript" width="22px" src="svgs/tech/javascript.svg" />
 
 <!-- other -->
+<img alt="react" width="22px" src= "svgs/tech/react.svg">
 <img alt="python" width="22px" src="svgs/tech/python.svg" />
 <img alt="java" width="22px" src="svgs/tech/java.svg" />
 <img alt="kotlin" width="22px" src="svgs/tech/kotlin.svg" />
 <img alt="mysql" width="22px" src="svgs/tech/mysql.svg" />
 <img alt="mongodb" width="22px" src="svgs/tech/mongodb.svg" />
-<img alt="asciidoc" width="22px" src="svgs/tech/asciidoctor.svg" />
-<img alt="apollographql" width="22px" src="svgs/tech/apollographql.svg" />
+<!-- <img alt="asciidoc" width="22px" src="svgs/tech/asciidoctor.svg" />
+<img alt="apollographql" width="22px" src="svgs/tech/apollographql.svg" /> -->
 <img alt="graphql" width="22px" src="svgs/tech/graphql.svg" />
-<img alt="dotnet" width="22px" src="svgs/tech/dotnet.svg" />
+<!-- <img alt="dotnet" width="22px" src="svgs/tech/dotnet.svg" /> -->
 
 <!-- ![aws](././svgs//tech/amazonaws_dark.svg#gh-dark-mode-only)
 ![aws](./svgs//tech/amazonaws_light.svg#gh-light-mode-only)
@@ -84,6 +84,6 @@
 
 </div>
 
-[instagram]: https://www.instagram.com/johannesmeldal
-[online]: https://online.ntnu.no/
+[instagram]: https://www.instagram.com/johanneslmeldal/
+[linkedin]: http://www.linkedin.com/in/johanneslmeldal1005
 [github]: https://github.com/johannesmeldal
